@@ -15,7 +15,8 @@ The **AdminBar** was built with a simple philosophy: Provide the most important 
 
 ## 📸 Screenshots
 
-*Coming soon*
+adminbar-preview.png
+
 ## 🚀 How to use
 
 1. Download the latest version from the [Releases](../../releases) section.
