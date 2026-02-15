@@ -1,16 +1,17 @@
-# AdminBar 🐺🛠️
+# AdminBar
 
 A small and efficient C# WPF system utility designed for quick maintenance, optimization, and system repairs. 
 
-The **AdminBar** was built with a simple philosophy: Provide the most important system tools in one clean, fast, and intuitive interface. No bloat, just performance.
+The **AdminBar** was built with a simple philosophy: Provide the most important system tools in one clean, fast, and intuitive interface. No bloat, just performance, easy to use.
 
 ## ✨ Features
 
-- **App Upgrade:** Keep your software up to date using `winget`.
+- **App Upgrade:** Keep your software up to date using a `winget` script.
+- **RAM Flush:** Quickly free up system memory for better performance.
 - **Temp Delete:** Quick cleaning of temporary files to free up space.
 - **Deep Clean:** Removes Windows logs, abandoned installers, and system clutter.
 - **Win Repair:** Automated system health checks using `sfc` and `DISM`.
-- **System Controls:** Quick access to Restart and Shutdown (with safety delay).
+- **System Controls:** Safe Restart and Shutdown (requires 1-second hold to trigger).
 
 ## 📸 Screenshots
 
