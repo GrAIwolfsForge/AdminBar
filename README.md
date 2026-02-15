@@ -15,7 +15,7 @@ The **AdminBar** was built with a simple philosophy: Provide the most important 
 
 ## 📸 Screenshots
 
-adminbar-preview.png
+![AdminBar Preview](adminbar-preview.png)
 
 ## 🚀 How to use
 
