@@ -10,7 +10,7 @@ The **AdminBar** was built with a simple philosophy: Provide the most important 
 - **Temp Delete:** Quick cleaning of temporary files to free up space.
 - **Deep Clean:** Removes Windows logs, abandoned installers, and system clutter.
 - **Win Repair:** Automated system health checks using `sfc` and `DISM`.
-- **System Controls:** Quick access to Windows Update, Restart, and Shutdown (with safety delay).
+- **System Controls:** Quick access to Restart and Shutdown (with safety delay).
 
 ## 📸 Screenshots
 
